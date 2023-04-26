@@ -1,0 +1,230 @@
+* {
+  box-sizing: border-box;
+}
+input[type=text],input[type=number],input[type=email],input[type=name],textarea[name=text]{
+width:70%;
+padding:12px;
+border:1px solid blue;
+border-radius:6px;
+margin-top:6px;
+margin-bottom:16px;
+text-align:center;
+}
+input[type=submit]{
+background-color:#002db3;
+color:white;
+padding:12px 20px;
+border:1px solid black;
+border-radius:6px;
+cursor:pointer;
+margin-left:40%;
+}
+input[type=submit]:hover{
+background-color: #444;
+}
+body {
+  background: white;
+  font-family: poppins;
+}
+
+/* Header/Blog Title */
+.header {
+	 padding: 30px;
+	 height:550px;
+  text-align: center;
+  background:#002db3 ;
+  font-size:20px;
+  color:white;
+  overflow:hidden;
+  width:100%;
+}
+
+.header img{
+    width:500px;
+	height:450px;
+	margin-right: 150px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+	overflow:hidden;
+  background-color: #002db3;
+  line-height: 30px;
+  border:1px solid black;
+}
+
+.topnav img{
+	margin-top: 15px;
+	margin-left: 25%;	
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  font-family: poppins;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  border:1px solid black;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
+  float: left;
+  width: 50%;
+ 
+}
+.rightcolumn form {   
+  float: left;
+  width: 100%;
+ 
+}
+.leftcolumn img{
+	width:600px;
+	height:450px;
+	margin-left: 8%;
+}
+
+	
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 50%;
+    padding-left: 20px;
+}
+
+
+.wholecolumn
+{
+	width:100%;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: blue;
+  width: 100%;
+  padding: 20px;
+ 
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+/* Add a card effect for articles */
+.card2 {
+  background-color: white;
+  padding:10px;
+  margin-top: 20px;
+  width:100%;
+   text-align:center;
+  height: 300px;
+  background-color:#ddd;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+	width:100%;
+	margin-top:10px;
+  padding: 20px;
+  text-align: center;
+  background: #000;
+  bottom:0;
+  color:white;
+}
+.footer a {
+	color:blue;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 55px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  background: white;
+  color:black;
+  margin: 5px;
+}
+
+.left {   
+  float: left;
+  width: 33%;
+   padding-left: 20px;
+}
+
+.mid {
+  float: left;
+  width: 33%;
+    padding-left: 30px;
+}
+
+.right {
+  float: left;
+  width: 33%;
+    padding-left: 30px;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .leftcolumn, .rightcolumn{   
+    width: 100%;
+    padding: 0;
+  }
+  .header{   
+    height: 100%;
+    padding: 0;
+  }
+  .header img{   
+    width:350px;
+	height:300px;
+	float:none;
+	margin-left:55px;
+  }
+  .card img{   
+    width:300px;
+	height:300px;
+  }
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+  
+  .footer iframe{
+	  width:200px;;
+	
+  }
+  .card2 {
+    width: 100%;
+    height:500px;
+  }
+  .division img{   
+    width:250px;
+	height:200px;
+  }
+  .rightcolumn textarea{
+  width: 300px;
+}
+  
+  
+}
