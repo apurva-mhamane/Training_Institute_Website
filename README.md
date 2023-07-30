@@ -1,5 +1,9 @@
 # Training_Institute_Website
-This is a simple and easy to use Mobile Responsive training institute website useful for mini project
+This is a simple and easy to use Mobile Responsive training institute website which can be useful for mini project
+
+Steps to download:-
+1. Download all file or zip file and keep all file in same folder
+2. Open HTML File with any browser.
 
 The website contains total 5 pages which includes–
 ▪ Home Page
@@ -19,7 +23,7 @@ A. Software Used:
 2. Notepad++
 3. FileZilla B. 
 
-B. Hardwater Used 
+B. Hardware Used 
 i. Configuration 
 1. Processor : i5 Intel Processor 
 2. RAM : 8GB 
@@ -38,7 +42,11 @@ Manager where you will get option to upload your website files
 5. In order to upload your website you have to rename your main page file name to 
 index.html 
 6. Now you can easily upload your files and your website will be updated. 
-7. And if you want to delete or replace any file there your will get option to do so. 
+7. And if you want to delete or replace any file there your will get option to do so.
+
+Screenshot of website:-
+![screencapture-file-C-xampp-htdocs-SmartGroupTrainingInstitute-index-html-2023-07-30-16_22_40](https://github.com/apurva-mhamane/Training_Institute_Website/assets/131534195/5da49b23-b751-4fa4-8e78-e5ca0b32130d)
+
 
 ![image](https://user-images.githubusercontent.com/131534195/233790380-f2b8fb63-c793-4fa7-8e54-f6770c239604.png)
 ![image](https://user-images.githubusercontent.com/131534195/233790408-2f0af319-68ba-4b56-8a45-aa775c060523.png)
