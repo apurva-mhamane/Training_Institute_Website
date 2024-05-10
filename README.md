@@ -52,14 +52,7 @@ https://github.com/apurva-mhamane/Training_Institute_Website/assets/131534195/92
 
 
 Screenshot of website:-
-![screencapture-file-C-xampp-htdocs-SmartGroupTrainingInstitute-index-html-2023-07-30-16_22_40](https://github.com/apurva-mhamane/Training_Institute_Website/assets/131534195/5da49b23-b751-4fa4-8e78-e5ca0b32130d)
 
-
-![image](https://user-images.githubusercontent.com/131534195/233790380-f2b8fb63-c793-4fa7-8e54-f6770c239604.png)
-![image](https://user-images.githubusercontent.com/131534195/233790408-2f0af319-68ba-4b56-8a45-aa775c060523.png)
-![image](https://user-images.githubusercontent.com/131534195/233790425-27ba0560-4596-4a90-8cb5-62a977e35201.png)
-![image](https://user-images.githubusercontent.com/131534195/233790476-8ebdbeef-39a7-4ab3-9da9-9cf1e408557a.png)
-![image](https://user-images.githubusercontent.com/131534195/233790496-39055fd5-67b7-483f-ab60-d6f623db86a3.png)
 ![image](https://user-images.githubusercontent.com/131534195/233790510-d7caaad5-3e48-428d-b8e4-d302a4f35129.png)
 
 
