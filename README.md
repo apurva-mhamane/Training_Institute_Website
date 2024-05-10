@@ -44,6 +44,13 @@ index.html
 6. Now you can easily upload your files and your website will be updated. 
 7. And if you want to delete or replace any file there your will get option to do so.
 
+Video:
+
+
+https://github.com/apurva-mhamane/Training_Institute_Website/assets/131534195/920068ac-30d4-4dee-8e5e-716d6554177b
+
+
+
 Screenshot of website:-
 ![screencapture-file-C-xampp-htdocs-SmartGroupTrainingInstitute-index-html-2023-07-30-16_22_40](https://github.com/apurva-mhamane/Training_Institute_Website/assets/131534195/5da49b23-b751-4fa4-8e78-e5ca0b32130d)
 
